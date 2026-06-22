@@ -10,5 +10,6 @@ dependencies = [
     "numpy>=2.4.6",
     "pandas>=3.0.3",
     "psycopg2-binary>=2.9.12",
+    "seaborn>=0.13.2",
     "sqlalchemy>=2.0.50",
 ]
